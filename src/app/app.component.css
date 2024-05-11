@@ -1,0 +1,21 @@
+h1{
+    color: crimson ;
+}
+button{
+    background-color: black;
+    color: whitesmoke;
+    padding: 0.5%;
+    font-size: large;
+    cursor: pointer;
+}
+ul{
+    list-style: square;
+    margin: 10px;
+    padding: 10px;
+}
+li{
+    margin: 15px;
+    color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
